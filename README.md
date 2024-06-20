@@ -7,9 +7,12 @@ Overview :
  
 Requirements :
 Python 3.7 or later
+
 TensorFlow 2. x
+
 Additional libraries: numpy, matplotlib, opencv-python, PIL
 
 Acknowledgments :
 Part of the "AI Programming with Python and TensorFlow" course from Udacity.
+
 Uses established neural network architectures for effective classification.
